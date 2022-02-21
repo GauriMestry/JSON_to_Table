@@ -1,0 +1,1102 @@
+[
+  {
+    "totalCount": 40008,
+    "id": "61254",
+    "uuid": "a3759b96-dddf-4b0e-ba1f-be04a9731103",
+    "ruuid": "5520778a-3c97-4677-97bc-dba7d1dcea7e",
+    "category": "start-vro-workflow",
+    "scope": "Y04_89_CI",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "in_progress",
+    "created": "2022-01-31T06:09:35.098238+00:00",
+    "lastUpdated": "2022-01-31T06:09:40.323271+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61253",
+    "uuid": "59a8bef3-fb17-44a2-9397-a8811327cab3",
+    "ruuid": "26fbb057-ee8b-4ba8-932f-ea9166e9c467",
+    "category": "power-management-application",
+    "scope": "Y02-Y03",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "in_progress",
+    "created": "2022-01-31T06:06:37.227576+00:00",
+    "lastUpdated": "2022-01-31T06:12:06.117252+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61252",
+    "uuid": "6a8285ee-5722-4455-a1e9-1ff9d3bb1ba5",
+    "ruuid": "560bc2ec-4111-42f8-91ff-0b176ac36287",
+    "category": "power-management-service",
+    "scope": "NSI_03_CI",
+    "reqtype": "start",
+    "submitter": {
+      "username": "zrohac",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": true,
+    "state": "completed",
+    "created": "2022-01-31T06:00:03.692044+00:00",
+    "lastUpdated": "2022-01-31T06:01:34.428662+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61251",
+    "uuid": "4520e106-888e-49f0-867e-368b2ace014a",
+    "ruuid": "4493fd36-ff03-4a97-a6d7-4ef04a1cd79a",
+    "category": "delete-sap-instance",
+    "scope": "Y32-Y33",
+    "reqtype": "Delete SAP",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:59:58.612897+00:00",
+    "lastUpdated": "2022-01-31T06:09:01.045038+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61250",
+    "uuid": "6cc36ab3-37df-47f8-9d5e-bf58b3ebaa6b",
+    "ruuid": "4eece713-705f-416e-8769-e66880433bfc",
+    "category": "start-vro-workflow",
+    "scope": "Y03_55_HD",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:58:10.409774+00:00",
+    "lastUpdated": "2022-01-31T06:05:27.489583+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61249",
+    "uuid": "5789d8cd-e8c1-40c4-8fd4-2ee373647ef6",
+    "ruuid": "9c5446a6-b546-402b-a542-3805e6af468c",
+    "category": "delete-sap-instance",
+    "scope": "Y06-Y07",
+    "reqtype": "Delete SAP",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "in_progress",
+    "created": "2022-01-31T05:53:51.925178+00:00",
+    "lastUpdated": "2022-01-31T05:53:56.798379+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61248",
+    "uuid": "19441705-dd9a-42d4-93df-bb9f1d2681d2",
+    "ruuid": "95d77ef7-f6cb-4edc-948c-61a2948f6bc1",
+    "category": "start-vro-workflow",
+    "scope": "Y33_05_HD",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:50:16.054893+00:00",
+    "lastUpdated": "2022-01-31T05:58:33.407521+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61247",
+    "uuid": "f9d5f105-8061-48e3-87cf-31788ca80144",
+    "ruuid": "04865ef7-cd7a-4b0b-962a-ae314e329f41",
+    "category": "start-vro-workflow",
+    "scope": "Y02_46_AP",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:46:44.869218+00:00",
+    "lastUpdated": "2022-01-31T05:57:47.619450+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61246",
+    "uuid": "782fb479-871e-4b0b-b2e1-84fe365d4fd7",
+    "ruuid": "c058e26f-1656-4ef4-b07b-084f71319e0d",
+    "category": "start-vro-workflow",
+    "scope": "Y04_83_AP",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:46:12.781968+00:00",
+    "lastUpdated": "2022-01-31T06:09:03.099174+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61245",
+    "uuid": "faa7cdfa-6c4d-4914-9dd3-57aabaf02dcb",
+    "ruuid": "cf120380-44bd-401e-866d-c75e2f5242d4",
+    "category": "start-vro-workflow",
+    "scope": "Y07_35_HD",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:44:24.431031+00:00",
+    "lastUpdated": "2022-01-31T05:52:41.604428+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61244",
+    "uuid": "04e5be74-16e1-476f-b5ee-43f8faadfe32",
+    "ruuid": "23b1621a-7fb0-4876-8d94-c160647e4094",
+    "category": "power-management-application",
+    "scope": "Y04",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:40:38.261990+00:00",
+    "lastUpdated": "2022-01-31T05:45:09.802192+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61243",
+    "uuid": "fe0ada02-b986-44cb-afb0-fab7cbbcafc0",
+    "ruuid": "76f714a6-893e-484c-8ed9-e33c070615ad",
+    "category": "start-vro-workflow",
+    "scope": "Y32_68_CI",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:39:58.333536+00:00",
+    "lastUpdated": "2022-01-31T05:49:15.931142+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61242",
+    "uuid": "04a0ac19-95f4-40ab-b654-39a6f8a4d3eb",
+    "ruuid": "2ca3351f-191e-46a8-94f4-786cda69fc62",
+    "category": "start-vro-workflow",
+    "scope": "Y02_44_CI",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:38:26.113238+00:00",
+    "lastUpdated": "2022-01-31T05:45:58.333799+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61241",
+    "uuid": "79c63e94-3d17-4642-a3ec-5df876dc845b",
+    "ruuid": "c676d59f-1f49-4797-8bd6-42b3f200f24a",
+    "category": "power-management-application",
+    "scope": "Y04",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:37:22.610846+00:00",
+    "lastUpdated": "2022-01-31T05:39:38.593592+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61240",
+    "uuid": "4ef999b8-7ac3-4d8e-858c-63d33e320b11",
+    "ruuid": "b27d13c3-6959-4f9c-845c-41cefdacb8c4",
+    "category": "start-vro-workflow",
+    "scope": "Y06_46_CI",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:35:10.827382+00:00",
+    "lastUpdated": "2022-01-31T05:43:58.478363+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61239",
+    "uuid": "bcb14ded-9b26-4b06-8bce-07c3af9d43ed",
+    "ruuid": "79409ba4-0224-488f-ad79-8afc544be1a2",
+    "category": "power-management-application",
+    "scope": "Y02-Y03",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:32:34.764068+00:00",
+    "lastUpdated": "2022-01-31T05:37:06.113001+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61238",
+    "uuid": "3f9d88b9-d643-4dc3-9d42-a724456cef22",
+    "ruuid": "b3450266-c43a-4c8e-ab9b-1f2882b40717",
+    "category": "database-backup-create",
+    "scope": "Y33_05_HD",
+    "reqtype": "backup-full-online",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:31:34.517130+00:00",
+    "lastUpdated": "2022-01-31T05:37:51.377092+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61237",
+    "uuid": "9deba90d-a693-43c9-939e-779b8d541f81",
+    "ruuid": "8ecb6c29-6794-4156-95a8-f8359d3cd75f",
+    "category": "start-vro-workflow",
+    "scope": "Y06_41_AP",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:30:54.373161+00:00",
+    "lastUpdated": "2022-01-31T05:34:40.515975+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61236",
+    "uuid": "41357eaf-6a2b-4523-9ee5-69b57fa80469",
+    "ruuid": "86effb39-0d59-4370-b2ed-b8ffc591b0f1",
+    "category": "power-management-application",
+    "scope": "Y02-Y03",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:29:08.705187+00:00",
+    "lastUpdated": "2022-01-31T05:31:24.687107+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61235",
+    "uuid": "087ebb70-b5c9-48ec-92bc-3c714e0ec913",
+    "ruuid": "e6436014-7844-4ceb-9f7f-103e86c943b5",
+    "category": "database-backup-enable",
+    "scope": "Y33_05_HD",
+    "reqtype": "Enable Database Backup",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:28:25.458796+00:00",
+    "lastUpdated": "2022-01-31T05:29:41.194692+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61203",
+    "uuid": "26263788-298f-4e2b-80da-177fc1330fc1",
+    "ruuid": "8046e44a-0043-4f2e-bfab-6412391224e0",
+    "category": "power-management-application",
+    "scope": "Y04",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:27:56.039132+00:00",
+    "lastUpdated": "2022-01-31T05:37:13.870181+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61202",
+    "uuid": "591055d6-a211-42d4-9642-0de59912b1f1",
+    "ruuid": "4a018b32-b06b-40a6-b175-e8acec50a5ad",
+    "category": "extend-filesystem",
+    "scope": "Y03_55_HD",
+    "reqtype": "Extend Filesystem",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "failed",
+    "created": "2022-01-31T05:26:44.795475+00:00",
+    "lastUpdated": "2022-01-31T05:28:09.273720+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61201",
+    "uuid": "24720ae9-8f0d-4f5f-a90e-13f4dc89e956",
+    "ruuid": "eb7c13e6-0090-444a-a848-835376e946ce",
+    "category": "database-backup-create",
+    "scope": "Y07_35_HD",
+    "reqtype": "backup-full-online",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:22:09.008482+00:00",
+    "lastUpdated": "2022-01-31T05:29:56.157645+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61200",
+    "uuid": "4a743014-4d1c-4786-acf7-9ccd81d39921",
+    "ruuid": "a731a049-c8a4-43f0-b592-c53beaea3a65",
+    "category": "database-backup-enable",
+    "scope": "Y07_35_HD",
+    "reqtype": "Enable Database Backup",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:19:21.051342+00:00",
+    "lastUpdated": "2022-01-31T05:20:36.615959+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61199",
+    "uuid": "63e80a86-8309-4912-a29e-b79d590c4e12",
+    "ruuid": "59be048d-124b-4bef-8c84-8a975f1b4d0b",
+    "category": "power-management-application",
+    "scope": "Y32-Y33",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:14:23.129523+00:00",
+    "lastUpdated": "2022-01-31T05:27:26.219599+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61198",
+    "uuid": "08478e7d-d0b1-4689-8835-4d514725834d",
+    "ruuid": "ed44e1bd-ca3a-468a-aecb-104de00afda3",
+    "category": "power-management-application",
+    "scope": "Y02-Y03",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:14:09.084342+00:00",
+    "lastUpdated": "2022-01-31T05:25:41.967891+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61197",
+    "uuid": "9216b17f-4956-4b6e-802b-16d3c5bf941a",
+    "ruuid": "d686dbf5-b058-43fd-bda0-66459f50241f",
+    "category": "power-management-application",
+    "scope": "Y06-Y07",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:05:48.627853+00:00",
+    "lastUpdated": "2022-01-31T05:18:36.986540+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61196",
+    "uuid": "d6facf07-a92a-4de0-8aa8-a27f4d2daeed",
+    "ruuid": "c73d8435-3640-404e-bbbc-26af4a2ebb11",
+    "category": "start-vro-workflow",
+    "scope": "Y33_05_HD",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:02:42.479374+00:00",
+    "lastUpdated": "2022-01-31T05:13:15.286495+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61195",
+    "uuid": "a14f3bc6-718d-449c-9625-23b0b7361324",
+    "ruuid": "6e3855d4-00ff-4c7c-b8cb-cd7239e12c1d",
+    "category": "scale-out-application",
+    "scope": "Y04",
+    "reqtype": "Scale out",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T05:02:28.881891+00:00",
+    "lastUpdated": "2022-01-31T05:26:50.508375+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61194",
+    "uuid": "1af90790-7e8c-46e2-b18c-ede28d684a58",
+    "ruuid": "4e0b74b2-64bf-41d3-aecf-1b872c5c85a4",
+    "category": "start-vro-workflow",
+    "scope": "Y07_35_HD",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:54:19.077076+00:00",
+    "lastUpdated": "2022-01-31T05:04:36.841658+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61193",
+    "uuid": "501edc8c-e617-48fe-9af5-35860928eb3b",
+    "ruuid": "77d9fcf1-b868-473c-9d1a-ac31825149fd",
+    "category": "scale-out-application",
+    "scope": "Y02-Y03",
+    "reqtype": "Scale out",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tu10101",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:52:40.115226+00:00",
+    "lastUpdated": "2022-01-31T05:13:45.935357+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61192",
+    "uuid": "3ba0e2c2-3887-4a1f-a8ff-690d5734c874",
+    "ruuid": "ab051622-19ad-44bd-a133-98bb0a9910ef",
+    "category": "start-vro-workflow",
+    "scope": "Y32_68_CI",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:51:10.996132+00:00",
+    "lastUpdated": "2022-01-31T05:01:44.023708+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61191",
+    "uuid": "9249d9bc-14dd-42a6-a195-3861ab45cb3c",
+    "ruuid": "47086aa9-b068-462c-a214-0df58d42120d",
+    "category": "delete-sap-instance",
+    "scope": "Y08-Y09",
+    "reqtype": "Delete SAP",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:48:43.105414+00:00",
+    "lastUpdated": "2022-01-31T05:04:16.999389+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61190",
+    "uuid": "339b1914-5d12-49a9-8c8e-43a845c9ddc2",
+    "ruuid": "c8b99e6e-62d9-42dd-a71a-c4cd464395e1",
+    "category": "power-management-application",
+    "scope": "Y32-Y33",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:47:07.623863+00:00",
+    "lastUpdated": "2022-01-31T04:50:08.714618+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61189",
+    "uuid": "52f9cf1d-3943-4919-9a89-07f19e49a481",
+    "ruuid": "3c2057b6-8296-490b-bea7-1600ca9f1df8",
+    "category": "start-vro-workflow",
+    "scope": "Y06_46_CI",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:45:00.174207+00:00",
+    "lastUpdated": "2022-01-31T04:54:02.841181+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61188",
+    "uuid": "51816bfd-871e-4ad2-a174-8e6bc897c2bc",
+    "ruuid": "e19e299c-c94a-4172-8c26-f977a603fa52",
+    "category": "power-management-application",
+    "scope": "Y32-Y33",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:43:36.507259+00:00",
+    "lastUpdated": "2022-01-31T04:45:52.416588+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61187",
+    "uuid": "eb0d1ab6-9a77-4764-b671-ec1602c3250f",
+    "ruuid": "7943e083-4389-49ec-870f-da4708c73491",
+    "category": "extend-filesystem",
+    "scope": "Y33_05_HD",
+    "reqtype": "Extend Filesystem",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:41:02.310332+00:00",
+    "lastUpdated": "2022-01-31T04:42:35.859035+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61186",
+    "uuid": "2cd1cf10-97cd-4790-9a59-c1ef8e242af6",
+    "ruuid": "e6a365f5-13b0-4735-8ad6-3201f6e08817",
+    "category": "start-vro-workflow",
+    "scope": "Y09_44_HD",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:40:12.863884+00:00",
+    "lastUpdated": "2022-01-31T04:48:00.047451+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61185",
+    "uuid": "05e814be-e905-44e5-bc8b-2e1fd024a9f7",
+    "ruuid": "7deb1cb1-0a14-4af0-91dd-3eb3cdd8024e",
+    "category": "extend-filesystem",
+    "scope": "Y33_05_HD",
+    "reqtype": "Extend Filesystem",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:38:51.756889+00:00",
+    "lastUpdated": "2022-01-31T04:40:24.341591+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61184",
+    "uuid": "2c1cb36f-ffde-42fc-a75a-06d748291d64",
+    "ruuid": "50ba7f41-5970-42e8-9062-214a793ce393",
+    "category": "start-vro-workflow",
+    "scope": "Y08_72_AP",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:36:00.239988+00:00",
+    "lastUpdated": "2022-01-31T04:39:31.414133+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61183",
+    "uuid": "13636ff3-e5d8-4cbb-b2a1-c58af8dcfc22",
+    "ruuid": "d6f80172-3f3a-403e-a4bb-b0d8733e7b04",
+    "category": "start-vro-workflow",
+    "scope": "Y06_41_AP",
+    "reqtype": "Start OS Patching",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:34:43.816982+00:00",
+    "lastUpdated": "2022-01-31T04:44:16.470076+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61182",
+    "uuid": "02b32342-0c6c-467c-90c7-ce14774a34f3",
+    "ruuid": "67d90037-75bf-45b9-9553-0fca79f93bfb",
+    "category": "power-management-application",
+    "scope": "Y06-Y07",
+    "reqtype": "start",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:28:54.957521+00:00",
+    "lastUpdated": "2022-01-31T04:33:56.525460+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61181",
+    "uuid": "8706dda8-9261-4eb0-aef0-b63d5c6b62fb",
+    "ruuid": "af380c8a-fa6c-4fe3-a4ab-36fc9c2a76f5",
+    "category": "start-vro-workflow",
+    "scope": "Y08_42_CI",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:26:45.474541+00:00",
+    "lastUpdated": "2022-01-31T04:35:02.753714+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61180",
+    "uuid": "aa564f3f-de47-4dab-8e40-5c40bd7753a6",
+    "ruuid": "8e2acfcf-2cf8-4163-849f-b9559d064f9b",
+    "category": "power-management-application",
+    "scope": "Y32-Y33",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "gcp0501",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:25:34.034871+00:00",
+    "lastUpdated": "2022-01-31T04:37:07.047319+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61179",
+    "uuid": "87cea9db-6ab0-420c-985c-dd6535446223",
+    "ruuid": "6c63f14a-8207-4ca8-a90f-4d0fd7bc0a73",
+    "category": "delete-sap-instance",
+    "scope": "Y10",
+    "reqtype": "Delete SAP",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:24:46.398869+00:00",
+    "lastUpdated": "2022-01-31T04:39:20.384606+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61178",
+    "uuid": "178b4809-ed51-43e6-9630-289a4694fa36",
+    "ruuid": "d92a381b-66b2-47b0-9f24-022a79936b17",
+    "category": "power-management-application",
+    "scope": "Y06-Y07",
+    "reqtype": "stop",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:23:25.553385+00:00",
+    "lastUpdated": "2022-01-31T04:28:12.244774+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61177",
+    "uuid": "187075ee-7836-4fe3-8e39-6ed886a5a264",
+    "ruuid": "8ffbd019-1ee1-4be9-a850-859773e93387",
+    "category": "database-backup-create",
+    "scope": "Y09_44_HD",
+    "reqtype": "backup-full-online",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:22:58.046684+00:00",
+    "lastUpdated": "2022-01-31T04:25:29.151225+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61176",
+    "uuid": "e818de5a-96c4-41a7-9f90-06e90aeb23f0",
+    "ruuid": "fcf0758b-51fe-40fe-b4b3-a95a694c3d4a",
+    "category": "start-vro-workflow",
+    "scope": "Y10_94_AP",
+    "reqtype": "Resize Virtual Machine",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:21:23.458021+00:00",
+    "lastUpdated": "2022-01-31T04:24:09.376422+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61175",
+    "uuid": "179b33b3-1929-4bf9-85f7-1a235946bcbd",
+    "ruuid": "d6ceeed7-22fc-4a3a-b676-8f0c5a53730c",
+    "category": "database-backup-enable",
+    "scope": "Y09_44_HD",
+    "reqtype": "Enable Database Backup",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "tib0301",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:20:05.730141+00:00",
+    "lastUpdated": "2022-01-31T04:21:36.578767+00:00",
+    "__typename": "requestType"
+  },
+  {
+    "totalCount": 40008,
+    "id": "61174",
+    "uuid": "0e3441dd-6a1b-4c9b-96da-eacbeae8dc11",
+    "ruuid": "c6cb352e-e84b-4a57-9015-b0c5413f3c98",
+    "category": "extend-filesystem",
+    "scope": "Y07_35_HD",
+    "reqtype": "Extend Filesystem",
+    "submitter": {
+      "username": "cypressuser",
+      "__typename": "userType"
+    },
+    "businessgroup": {
+      "name": "azt9797",
+      "__typename": "businessgroupType"
+    },
+    "scheduled": false,
+    "state": "completed",
+    "created": "2022-01-31T04:20:03.270786+00:00",
+    "lastUpdated": "2022-01-31T04:22:58.900864+00:00",
+    "__typename": "requestType"
+  }
+]
